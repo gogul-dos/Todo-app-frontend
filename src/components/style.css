@@ -1,0 +1,20 @@
+.login-main-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  gap: 25px;
+}
+.use-for-distance {
+  margin-top: 10px;
+}
+input {
+  border-radius: 10px;
+  height: 35px;
+  margin-left: 15px;
+}
+.link-element {
+  text-decoration: none;
+}
